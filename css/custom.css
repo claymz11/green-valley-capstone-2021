@@ -1,0 +1,258 @@
+@charset "UTF-8";
+
+.header {
+    background-color: #356044;
+    padding-top: 0.5rem;
+    padding-bottom: 5rem;
+    color: white;
+}
+
+h1 {
+    margin-left: 2rem;
+    margin-top: 3rem;
+    margin-bottom: -3rem;
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    color: #d4ab39;
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+h3 {
+    margin-bottom: 2rem;
+    color: black;
+    font-family: 'Shippori Mincho B1', serif;
+    font-size: 1.6rem;
+}
+
+h4 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: black;
+    font-family: 'Shippori Mincho B1', serif;
+    font-size: 1.3rem;
+}
+
+h5 {
+    margin-bottom: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 1.2rem;
+}
+
+h6 {
+    margin-bottom: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-lg {
+    margin-bottom: 2rem;
+}
+
+nav {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #d4ab39;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+a {
+    color: #356044;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: #356044;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.breadcrumb {
+    margin-bottom: 2rem;
+}
+
+.pending {
+    margin-bottom: 4rem;
+}
+
+.menubox {
+    margin-top: 4rem;
+    padding: rem;
+    border-top: 20px solid rgb(53, 96, 68);
+}
+
+.card-title {
+    margin-bottom: 2.5rem;
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+.login {
+    margin-left: 10rem;
+    border-style: solid;
+    border-width: 0.2rem;
+    border-color: #d4ab39;
+    padding: 2rem;
+}
+
+.btn {
+    font-family: 'Poppins', sans-serif;
+}
+
+.th {
+    font-family: 'Poppins', sans-serif; 
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #d4ab39;
+    border-color: #d4ab39;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: #d4ab39;
+    border-color: #d4ab39;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #d4ab39;
+    border-color: #d4ab39;
+    margin-bottom: 1rem;
+}
+
+.btn-secondary:hover {
+    color: #d4ab39;
+    background-color: white;
+    border-color: #d4ab39;
+}
+
+.active-focus {
+    background-color: #d4ab39;
+}
+
+.btn-outline-secondary {
+    color: white;
+    background-color: #d4ab39;
+    border-color: #d4ab39;
+}
+
+.btn-outline-secondary:hover {
+    color: #d4ab39;
+    background-color: white;
+    border-color: #d4ab39;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    color: #d4ab39;
+    background-color: white;
+    border-color: #356044;
+    border-width: 2px;
+}
+
+.dropdown-item {
+    font-family: 'Poppins', sans-serif;
+}
+
+.input {
+    margin-bottom: 2rem;
+}
+
+.notes-associated {
+    margin-top: 2rem;
+}
+
+.employee-workflow {
+    margin-top: -1rem;
+}
+
+.equip-history {
+    margin-top: -1rem;
+}
+
+.card {
+    border-style: solid;
+    border-width: 0.2rem;
+    border-color: #d4ab39;
+    
+}
+
+.cardmain {
+    border-top: 20px solid rgb(53, 96, 68);
+    margin-left: 2rem;
+}
+
+.card-header {
+    padding: 0rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,0);
+    border-bottom: 0px solid rgba(0,0,0,0);
+}
+
+table {
+    margin-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+th {
+    font-weight: bold;
+}
+
+.btn-group {
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+
+.list-group {
+    font-weight: bold;
+}
+
+.list-group-item-action {
+    width: 100%;
+    color: #495057;
+    text-align: inherit;
+}
+
+.list-group-item-action:hover {
+    width: 100%;
+    color: #d4ab39;
+    text-align: inherit;
+}
+
+.estimate {
+    margin-top: 2rem;
+}
+
+.movereq {
+    margin-top: 1rem;
+}
+
+footer {
+    background-color: #356044;
+    font-size: 0.5rem;
+    padding: 2rem;
+    margin-top: 5rem;
+    color: white;
+    font-family: 'Shippori Mincho B1', serif;
+}
